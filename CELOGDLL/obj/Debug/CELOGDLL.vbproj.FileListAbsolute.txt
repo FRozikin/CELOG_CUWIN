@@ -1,0 +1,9 @@
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\bin\Debug\CELOGDLL.dll
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\bin\Debug\CELOGDLL.pdb
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\bin\Debug\CELOGDLL.xml
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\obj\Debug\CELOGDLL.Resources.resources
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\obj\Debug\CELOGDLL.vbproj.GenerateResource.Cache
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\obj\Debug\CELOGDLL.dll
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\obj\Debug\CELOGDLL.xml
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CELOGDLL\obj\Debug\CELOGDLL.pdb
