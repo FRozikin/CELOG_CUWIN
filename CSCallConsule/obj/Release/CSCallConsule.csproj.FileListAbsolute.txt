@@ -1,0 +1,8 @@
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\bin\Release\CSCallConsule.exe
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\bin\Release\CSCallConsule.pdb
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\obj\Release\CSCallConsule.frmMain.resources
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\obj\Release\CSCallConsule.Properties.Resources.resources
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\obj\Release\CSCallConsule.csproj.GenerateResource.Cache
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\obj\Release\CSCallConsule.exe
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\CSCallConsule\obj\Release\CSCallConsule.pdb
