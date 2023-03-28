@@ -1,0 +1,10 @@
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\bin\Debug\VBCallConsule.exe
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\bin\Debug\VBCallConsule.pdb
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\bin\Debug\VBCallConsule.xml
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\VBCallConsule.frmMain.resources
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\VBCallConsule.Resources.resources
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\VBCallConsule.vbproj.GenerateResource.Cache
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\VBCallConsule.exe
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\VBCallConsule.xml
+C:\Users\lab\Documents\Visual Studio 2008\Projects\CELOG\VBCallConsule\obj\Debug\VBCallConsule.pdb
